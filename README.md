@@ -35,7 +35,7 @@ Jupyter Notebook
                 |- ratings.csv
                 |- tags.csv
     |- notebooks
-        |- eda_movielens.ipynb
+        |- AIS_EDA_movielens
     |- requirements.txt
 ```
 
